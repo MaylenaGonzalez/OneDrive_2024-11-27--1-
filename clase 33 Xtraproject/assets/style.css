@@ -1,0 +1,15 @@
+ /*estilos de navbar*/
+ .navbar{
+    background-color: #78be21;
+    height: 100px;
+    padding: 0auto;
+}
+
+.logonavbar{
+    margin-right: 20px;
+}
+
+.navbar-brand{
+    font-weight: bold;
+    color:white!important
+}
